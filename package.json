@@ -1,0 +1,26 @@
+{
+  "name": "atm-cursor",
+  "version": "0.1.0",
+  "description": "ATM Screen Cursor Service",
+  "main": "cursor.js",
+  "scripts": {
+    "test": "istanbul cover jasmine"
+  },
+  "repository": "https://github.com/timgabets/atm-cursor",
+  "keywords": [
+    "ATM",
+    "Screens"
+  ],
+  "author": {
+    "name": "Tim Gabets",
+    "email": "tim@gabets.ru",
+    "url": "http://gabets.ru/"
+  },
+  "license": "LGPL-2.1",
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "jasmine": "^2.8.0"
+  },
+  "dependencies": {
+  }
+}
